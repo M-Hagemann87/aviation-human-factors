@@ -15,7 +15,7 @@ categories and preventive measures from NASA ASRS aviation incident reports.
 - Stratified 70/15/15 split on human_factors proxy key
 
 ## Deployed App
-🤗 [Live demo on Hugging Face Spaces](https://huggingface.co/spaces/MatheusHagemann/aviation-incident-risk-estimation)
+🤗 [Live demo on Hugging Face Spaces](https://huggingface.co/spaces/MatheusHagemann/aviation-human-factor-preventive-measures)
 
 ## Stack
 Python · XGBoost · scikit-learn · sentence-transformers · pandas · Gradio
